@@ -2,10 +2,33 @@
  background: #fff;
 max-width: 960px ;
 margin: 0 auto ;
-padding:  20px
+padding:  20px ;
+height: 300px;
 }
+.wrapper :after{display: block;}
+
 
 body {background-color: grey }
+img { float: left;
+margin: 10px ;
+
+}
+h1 {background-color: blue
+text alingn-center; }
+header {
+    max-width: 1080 ;
+    margin: 20px ;
+    padding:  20px ;
+    height:0 100px }
+
+link{float: right;
+    max-width: 960px ;
+    margin: 0 auto ;
+    padding:  20px ;
+}
+.me{margin: 10px  
+}
+
 
    
      
